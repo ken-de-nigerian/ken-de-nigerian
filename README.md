@@ -1,26 +1,23 @@
 # Hi, I'm Nwaneri Chukwunyere Kenneth 👋
 
-**Laravel Backend Engineer • Creator of PayZephyr**
+**Laravel Backend Engineer • Vue 3 Enthusiast • Open-Source Creator**
 
 ---
 
-## 🚀 About Me
-I build scalable backend systems with a focus on **payment processing, clean architecture, and Laravel applications**.  
-I create open-source tools to simplify complex systems for developers.
+I build scalable backend systems and frontend components, focusing on **payment systems, architecture, and developer tools**.
 
 ---
 
-## 💳 PayZephyr
-**PayZephyr** is a Laravel package for unified payments:
+## 🔹 Key Projects
 
-- Unified API for multiple gateways: Paystack, Flutterwave, Monnify, Stripe, PayPal  
-- Automatic provider fallback  
-- Secure webhook handling  
-- Transaction logging  
-- Extensible driver architecture  
+- **PayZephyr** – Laravel unified payment abstraction  
+- **vue-google-translate-widget** – Vue 3 translation component  
+- *(Other npm/Composer packages available on GitHub & npm/Packagist)*
 
-🔗 [GitHub Repo](https://github.com/ken-de-nigerian/payzephyr)  
-📦 [Packagist](https://packagist.org/packages/kendenigerian/payzephyr)
+---
+
+## 🛠 Tech Stack
+PHP (Laravel) • Vue 3 • JavaScript • MySQL/PostgreSQL • Redis • Git
 
 ---
 
