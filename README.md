@@ -1,4 +1,4 @@
-# Hi, I'm Nwaneri Chukwunyere Kenneth 👋
+# Hi, I'm Nwaneri Chukwunyere Kenneth 
 
 **Laravel Backend Engineer • Vue 3 Enthusiast • Open-Source Creator**
 
@@ -33,4 +33,4 @@ I share articles about Laravel, payment systems, and software architecture:
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/nwaneri-kenneth-284557171 ([https://linkedin.com/in/your-link-here)](https://www.linkedin.com/in/nwaneri-kenneth-284557171/)
+- LinkedIn: https://www.linkedin.com/in/nwaneri-kenneth-284557171/
